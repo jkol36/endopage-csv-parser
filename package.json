@@ -34,10 +34,13 @@
     "babel-preset-es2017": "^6.24.1",
     "babel-register": "^6.26.0",
     "bluebird": "^3.5.1",
+    "csvtojson": "^2.0.4",
     "dotenv": "^6.0.0",
     "firebase-admin": "^5.0.1",
+    "glob": "^7.1.2",
     "moment": "^2.2.2",
     "mongoose": "^5.1.7",
+    "path": "^0.12.7",
     "superagent": "^3.8.3",
     "superagent-bluebird-promise": "^4.2.0"
   }
